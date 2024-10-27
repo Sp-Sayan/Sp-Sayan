@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently focusing on **DSA**
 
-- 💬 Ask me about **MERN, Java**
+- 💬 Ask me about **MERN, JAVA**
 
 - 📫 How to reach me **sayanpaul09@gmail.com**
 
