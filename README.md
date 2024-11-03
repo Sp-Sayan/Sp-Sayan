@@ -1,5 +1,5 @@
 
-[![An image of @spsayan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/spsayan)](https://holopin.io/@spsayan)
+![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Sayan Paul</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif">
