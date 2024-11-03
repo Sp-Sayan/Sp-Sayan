@@ -15,7 +15,7 @@
 
 <h3 align="left">Hacktoberfest 2024:</h3>
 <hr >
-<img src="https://github.com/Sp-Sayan/Sp-Sayan/blob/main/hacktoberfest_2k24.png" alt="hacktoberfest2024" />
+<a href="https://holopin.me/spsayan"><img src="https://github.com/Sp-Sayan/Sp-Sayan/blob/main/hacktoberfest_2k24.png" alt="hacktoberfest2024" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <hr>
