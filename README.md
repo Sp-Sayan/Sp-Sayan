@@ -20,16 +20,15 @@
 <h3 align="left">Connect with me:</h3>
 <hr>
 <p align="center">
-<a href="https://linkedin.com/in/sayan-paul-9b30ab258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayan-paul-9b30ab258" height="30" width="40" /></a>
-<a href="https://www.facebook.com/share/V9DUqbaabVk5vXyP/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sayan paul" height="30" width="40" /></a>
-<a href="https://www.instagram.com/sp.sayan_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sp.sayan_03" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sayan-paul-9b30ab258" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="sayan-paul-9b30ab258" height="15%" width="15%" /></a>
+<a href="https://www.facebook.com/share/V9DUqbaabVk5vXyP/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="sayan paul" height="15%" width="15%" /></a>
+<a href="https://www.instagram.com/sp.sayan_03" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="sp.sayan_03" height="15%" width="15%" /></a>
 </p>
 
 <h3 align="left">Techstack:</h3>
 <hr>
 <p style="flex" align="center"> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="15%" height="15%"/> </a> 
-  <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="15%" height="15%"/> </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" alt="bootstrap" width="15%" height="15%"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="15%" height="15%"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="15%" height="15%"/> </a> 
