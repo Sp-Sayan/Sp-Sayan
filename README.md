@@ -25,7 +25,7 @@
 <a href="https://www.instagram.com/sp.sayan_03" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="sp.sayan_03" height="15%" width="15%" /></a>
 </p>
 
-<h3 align="left">Techstack:</h3>
+<h2 align="left">Techstack:</h2>
 <hr>
 <p style="flex" align="center"> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="15%" height="15%"/> </a> 
