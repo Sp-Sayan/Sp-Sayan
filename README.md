@@ -32,7 +32,7 @@
 <h3 align="left">Profile Stats:</h3>
 <hr>
 
-<p><img align="left"  width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=sp-sayan&" alt="sp-sayan" /></p>
-<p>&nbsp;<img align="left" width="100%" src="https://github-readme-stats.vercel.app/api?username=sp-sayan&show_icons=true&locale=en" alt="sp-sayan" /></p>
-<p align="center" ><img width="100%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=sp-sayan&show_icons=true&locale=en&layout=compact" alt="sp-sayan" /></p>
+<p align="center"><img   width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=sp-sayan&" alt="sp-sayan" /></p>
+<p align="center">&nbsp;<img  width="50%" src="https://github-readme-stats.vercel.app/api?username=sp-sayan&show_icons=true&locale=en" alt="sp-sayan" /></p>
+<p align="center" ><img width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=sp-sayan&show_icons=true&locale=en&layout=compact" alt="sp-sayan" /></p>
 
