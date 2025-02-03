@@ -27,7 +27,7 @@
 
 <h3 align="left">Techstack:</h3>
 <hr>
-<p style="flex" align="center"> 
+<div style="flex space-evenly" align="center"> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="20%" height="20%"/> </a> 
   <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="20%" height="20%"/> </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" alt="bootstrap" width="20%" height="20%"/> </a>
@@ -45,7 +45,7 @@
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="20%" height="20%"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="20%" height="20%"/> </a> 
    <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="github" width="20%" height="20%"/> </a> 
-</p>
+</div>
 
 <h3 align="left">Profile Stats:</h3>
 <hr>
