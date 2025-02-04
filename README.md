@@ -13,11 +13,13 @@
 
 - ⚡ Fun fact **I'm a foodie 🍉🍉**
 
-<h2 align="left">Hacktoberfest 2024:</h2>
+
+
+## Hacktoberfest 2024:
 
 <a href="https://www.holopin.io/@spsayan#badges"><img src="https://github.com/Sp-Sayan/Sp-Sayan/blob/main/hacktoberfest_2k24.png" alt="hacktoberfest2024" /></a>
 
-<h2 align="left">Connect with me:</h2>
+## 📲Connect with me:
 
 <p align="center">
 <a href="https://linkedin.com/in/sayan-paul-9b30ab258" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="sayan-paul-9b30ab258" height="15%" width="15%" /></a>
@@ -25,7 +27,8 @@
 <a href="https://www.instagram.com/sp.sayan_03" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="sp.sayan_03" height="15%" width="15%" /></a>
 </p>
 
-<h2 align="left">Techstack:</h2>
+
+## 🧑‍💻Techstack:
 
 <p style="flex" align="center"> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="15%" height="15%"/> </a> 
@@ -46,18 +49,18 @@
    <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="github" width="15%" height="15%"/> </a> 
 </p>
 
-<h2 align="left">Profile Stats:</h2>
-
 # 📊 GitHub Stats:
-<p align="center"><img   width="70%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sp-sayan&theme=calm_pink&hide_border=false" alt="sp-sayan" /></p>
-<p align="center">&nbsp;<img  width="70%" src="https://github-readme-stats.vercel.app/api?username=sp-sayan&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true" alt="sp-sayan" /></p>
-<p align="center" ><img width="70%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sp-sayan&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="sp-sayan" /></p>
+<p align="center"><img   width="60%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sp-sayan&theme=calm_pink&hide_border=false" alt="sp-sayan" /></p>
+<p align="center">&nbsp;<img  width="60%" src="https://github-readme-stats.vercel.app/api?username=sp-sayan&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true" alt="sp-sayan" /></p>
+<p align="center" ><img width="60%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sp-sayan&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="sp-sayan" /></p>
 
 ## 🏆 GitHub Trophies
 <p align="center" ><img width="70%"  src="https://github-profile-trophy.vercel.app/?username=sp-sayan&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="sp-sayan" /></p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sp-sayan&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center" ><img width="60%"  src="https://github-contributor-stats.vercel.app/api?username=sp-sayan&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="sp-sayan" /></p>
+
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center" ><img width="60%"  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="sp-sayan" /></p>
+
