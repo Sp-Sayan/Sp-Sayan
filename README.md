@@ -48,8 +48,16 @@
 
 <h2 align="left">Profile Stats:</h2>
 
+# 📊 GitHub Stats:
+<p align="center"><img   width="70%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sp-sayan&theme=calm_pink&hide_border=false" alt="sp-sayan" /></p>
+<p align="center">&nbsp;<img  width="70%" src="https://github-readme-stats.vercel.app/api?username=sp-sayan&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true" alt="sp-sayan" /></p>
+<p align="center" ><img width="70%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sp-sayan&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="sp-sayan" /></p>
 
-<p align="center"><img   width="70%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sp-sayan&" alt="sp-sayan" /></p>
-<p align="center">&nbsp;<img  width="70%" src="https://github-readme-stats.vercel.app/api?username=sp-sayan&show_icons=true&locale=en" alt="sp-sayan" /></p>
-<p align="center" ><img width="70%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=sp-sayan&show_icons=true&locale=en&layout=compact" alt="sp-sayan" /></p>
+## 🏆 GitHub Trophies
+<p align="center" ><img width="70%"  src="https://github-profile-trophy.vercel.app/?username=sp-sayan&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="sp-sayan" /></p>
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sp-sayan&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
